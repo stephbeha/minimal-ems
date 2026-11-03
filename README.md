@@ -30,8 +30,7 @@ snapshots #workspeaks
 * python3
 * tkinter
 
-## CONTRIBUTING
-Checkout [CONTRIBUTING.md](/CONTRIBUTING.md)
+
 
 ---
 
