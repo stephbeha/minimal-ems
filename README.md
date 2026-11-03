@@ -1,7 +1,4 @@
----
-![ICON](/logo.ico)
-*Employee Management System
----
+
 
 This is a minimal EMS with nice GUI.
 
