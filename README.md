@@ -42,9 +42,7 @@ snapshots #workspeaks
 
 ---
 
-### Help
 
-Feel free to post any issue [here](https://github.com/uti1man/ems/issues)
 
 ### License
 
