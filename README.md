@@ -45,5 +45,3 @@ snapshots #workspeaks
 
 
 ### License
-
-This project is licensed under the unmodified [AGPLv3] License - see the [LICENSE](/LICENSE) for details.
